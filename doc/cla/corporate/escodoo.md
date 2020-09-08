@@ -1,4 +1,4 @@
-Brazil, 2020-09-04
+Brazil, 2020-09-08
 
 Escodoo agrees to the terms of the Odoo Corporate Contributor License
 Agreement v1.0.
